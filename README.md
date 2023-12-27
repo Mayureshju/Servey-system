@@ -1,5 +1,7 @@
 Hosted Url : https://658c0cd81eb6075aa7c8b3fd--jade-faun-14307b.netlify.app/
+
 Admin email: admin@gmail.com
+
 Admin password: 12345
 
 Frontend:
